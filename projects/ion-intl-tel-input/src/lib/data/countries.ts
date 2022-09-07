@@ -271,7 +271,7 @@ export const countries: CountryI[] = [
       placeholder: ''
     },
     {
-      name: 'Bulgaria',
+      name: 'България',
       isoCode: 'bg',
       dialCode: '359',
       flagClass: 'bg',

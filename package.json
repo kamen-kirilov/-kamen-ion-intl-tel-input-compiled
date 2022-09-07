@@ -44,8 +44,7 @@
     "serve_lib": "ng build ion-intl-tel-input --watch",
     "npm_pack": "cd dist/ion-intl-tel-input && npm pack",
     "package": "npm run build_lib && npm run npm_pack",
-    "publish": "npm run package && cd dist/ion-intl-tel-input && npm publish",
-    "postinstall": "npm run build_lib"
+    "publish": "npm run package && cd dist/ion-intl-tel-input && npm publish"
   },
   "dependencies": {
     "@angular/common": "~8.1.2",
